@@ -27,16 +27,6 @@
     { "date": 1587390991 , "type": "safeTAL training", "location": "Timmins, Ontario, Canada", "slug": "unique-slug" },
     { "date": 1587290991 , "type": "safeTAL training", "location": "Rensselaer, New York, USA", "slug": "unique-slug" },
     { "date": 1587190991 , "type": "safeTAL training", "location": "Southgate , Michigan, USA", "slug": "unique-slug" },
-    { "date": 1587090991 , "type": "safeTAL training", "location": "Prahran, VIC, Victoria, Australia", "slug": "unique-slug" },
-    { "date": 1586990991 , "type": "safeTAL training", "location": "Charlottesville, Virginia, USA", "slug": "unique-slug" },
-    { "date": 1586890991 , "type": "safeTAL training", "location": "JBER, Alaska, USA", "slug": "unique-slug" },
-    { "date": 1586790991 , "type": "safeTAL training", "location": "Winnipeg, Manitoba, Canada", "slug": "unique-slug" },
-    { "date": 1586690991 , "type": "safeTAL training", "location": "Windsor, Ontario, Canada", "slug": "unique-slug" },
-    { "date": 1586590991 , "type": "safeTAL training", "location": "Bethesda, Maryland, USA", "slug": "unique-slug" },
-    { "date": 1586490991 , "type": "safeTAL training", "location": "Toronto, Ontario, Canada", "slug": "unique-slug" },
-    { "date": 1586390991 , "type": "safeTAL training", "location": "Perth, WA, Western Australia", "slug": "unique-slug" },
-    { "date": 1586290991 , "type": "safeTAL training", "location": "Ottawa, Ontario, Canada", "slug": "unique-slug" },
-    { "date": 1586190991 , "type": "safeTAL training", "location": "Timmins, Ontario, Canada", "slug": "unique-slug" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
