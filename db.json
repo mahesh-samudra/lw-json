@@ -1,14 +1,14 @@
 {
   "posts": [
     { "date": 1608209712 , "type": "safeTAL training", "location": "Rensselaer, New York, USA", "slug": "unique-slug" },
-    { "date": 1600347312 , "type": "safeTAL training", "location": "Southgate , Michigan, USA", "slug": "unique-slug" },
-    { "date": 1594990512 , "type": "safeTAL training", "location": "Prahran, VIC, Victoria, Australia", "slug": "unique-slug" },
-    { "date": 1594731312 , "type": "safeTAL training", "location": "Charlottesville, Virginia, USA", "slug": "unique-slug" },
+    { "date": 1600347312 , "type": "ASIST", "location": "Southgate , Michigan, USA", "slug": "unique-slug" },
+    { "date": 1594990512 , "type": "suicide to Hope", "location": "Prahran, VIC, Victoria, Australia", "slug": "unique-slug" },
+    { "date": 1594731312 , "type": "ASIST T4T", "location": "Charlottesville, Virginia, USA", "slug": "unique-slug" },
     { "date": 1591880112 , "type": "safeTAL training", "location": "JBER, Alaska, USA", "slug": "unique-slug" },
-    { "date": 1589201712 , "type": "safeTAL training", "location": "Winnipeg, Manitoba, Canada", "slug": "unique-slug" },
-    { "date": 1589028912 , "type": "safeTAL training", "location": "Windsor, Ontario, Canada", "slug": "unique-slug" },
+    { "date": 1589201712 , "type": "safeTALK T4T", "location": "Winnipeg, Manitoba, Canada", "slug": "unique-slug" },
+    { "date": 1589028912 , "type": "ASIST T4T", "location": "Windsor, Ontario, Canada", "slug": "unique-slug" },
     { "date": 1586436912 , "type": "safeTAL training", "location": "Bethesda, Maryland, USA", "slug": "unique-slug" },
-    { "date": 1586091312 , "type": "safeTAL training", "location": "Toronto, Ontario, Canada", "slug": "unique-slug" }
+    { "date": 1586091312 , "type": "Suicide to Hope T4F", "location": "Toronto, Ontario, Canada", "slug": "unique-slug" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
